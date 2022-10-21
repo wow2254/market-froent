@@ -12,6 +12,7 @@ function App() {
     const history = useHistory();
     return (
         <div>
+            <></>
             <div id="header">
                 <HaderPage />
             </div>
